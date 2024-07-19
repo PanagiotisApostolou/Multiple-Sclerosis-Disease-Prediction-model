@@ -1,6 +1,6 @@
 # Multiple-Sclerosis-Disease-Prediction-model
 
-**Summary**: This data was collected in a study conducted in Mexican mestizo patients newly diagnosed with CIS who presented at the National Institute of Neurology and Neurosurgery (NINN) in Mexico City, Mexico, between 2006 and 2010. We are asked from the Ministry of health to make a prediction model based upon the data and present them.
+**Summary**: Here we try to isolate the most important factors of the illness in order to improve examination management and possibly help make an early diagnosis since starting treatment early generally provides the best chance at slowing the progression of MS.
 
 **Team members**: Panagiotis Apostolou and Mixalis Kontis
 
